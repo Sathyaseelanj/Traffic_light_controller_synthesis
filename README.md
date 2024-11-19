@@ -14,9 +14,9 @@ Synthesis: Genus
 
 Synthesis requires three files as follows,
 
-◦ Liberty Files (.lib)
+• Liberty Files (.lib)
 
-◦ Verilog/VHDL Files (.v or .vhdl or .vhd)
+• Verilog/VHDL Files (.v or .vhdl or .vhd)
 
 ### Step 2 : Creating an SDC File
 
@@ -30,9 +30,9 @@ The Liberty files are present in the library path,
 
 • In the terminal, initialise the tools with the following commands if a new terminal is being used.
 
-◦ csh
+• csh
 
-◦ source /cadence/install/cshrc
+• source /cadence/install/cshrc
 
 • The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
 
